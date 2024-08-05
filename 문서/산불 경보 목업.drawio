@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2024-07-29T11:21:12.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0HO-9P1mYT6W2H7iJBlg" version="24.6.5" type="device">
+  <diagram id="zbA4TlJG3g1XVzoMGHcV" name="페이지-2">
+    <mxGraphModel dx="1070" dy="1558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JHpFVroVqXMR3lc4qW7m-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_UGPIfBSlGJHwif54rb-24" target="tLEjUhLMWZMFQCrFyKaJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_UGPIfBSlGJHwif54rb-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;perimeterSpacing=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="226" width="452" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="f_UGPIfBSlGJHwif54rb-26" value="&lt;font color=&quot;#301e18&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;시작 화면&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DDCDC8;" parent="1" vertex="1">
+          <mxGeometry x="251" y="248" width="188" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="f_UGPIfBSlGJHwif54rb-27" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;화재경보 프로그램 시작&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="334" y="390" width="244" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="JHpFVroVqXMR3lc4qW7m-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tLEjUhLMWZMFQCrFyKaJ-4" target="tLEjUhLMWZMFQCrFyKaJ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEjUhLMWZMFQCrFyKaJ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;perimeterSpacing=1;" parent="1" vertex="1">
+          <mxGeometry x="767" y="226" width="452" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEjUhLMWZMFQCrFyKaJ-5" value="&lt;font color=&quot;#301e18&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;화재 정보&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DDCDC8;" parent="1" vertex="1">
+          <mxGeometry x="788" y="248" width="188" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEjUhLMWZMFQCrFyKaJ-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;지역&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="788" y="305" width="193" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEjUhLMWZMFQCrFyKaJ-30" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;산 이름&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="305" width="193" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEjUhLMWZMFQCrFyKaJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;perimeterSpacing=1;" parent="1" vertex="1">
+          <mxGeometry x="1322" y="226" width="452" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEjUhLMWZMFQCrFyKaJ-45" value="&lt;font color=&quot;#301e18&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;월별 화재 그래프&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DDCDC8;" parent="1" vertex="1">
+          <mxGeometry x="1337" y="248" width="188" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="tLEjUhLMWZMFQCrFyKaJ-46" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;그래프 출력&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="315" width="375" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="JHpFVroVqXMR3lc4qW7m-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;날짜 / 시간&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="248" width="193" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="JHpFVroVqXMR3lc4qW7m-5" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;화재 사진&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788" y="377" width="411" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="JHpFVroVqXMR3lc4qW7m-7" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;월별 화재 그래프&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="609" width="193" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
